@@ -1,0 +1,6 @@
+.DS_Store
+*/.DS_Store
+titanic/submissions/*
+redhat/submission/*
+redhat/data/*
+*/.ipynb_checkpoints/*

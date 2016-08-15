@@ -3,4 +3,6 @@
 titanic/submissions/*
 redhat/submission/*
 redhat/data/*
+digits/submissions/*
+digits/data/*
 */.ipynb_checkpoints/*

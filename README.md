@@ -7,7 +7,7 @@ Repo with my code written for various Kaggle competitions.
 * About competition: https://www.kaggle.com/c/titanic
 * Data: https://www.kaggle.com/c/titanic/data
 * Leaderboard: https://www.kaggle.com/c/titanic/leaderboard
-* My best [submission](https://www.kaggle.com/c/titanic/leaderboard?submissionId=3335297): **75.598%** (Gradient Boosting)
+* My best [submission](https://www.kaggle.com/c/titanic/leaderboard?submissionId=3350542): **76.555%** (Voting Ensemble)
 
 ## Digit Recognizer
 

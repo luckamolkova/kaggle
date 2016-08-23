@@ -15,3 +15,10 @@ Repo with my code written for various Kaggle competitions.
 * Data: https://www.kaggle.com/c/digit-recognizer/data
 * Leaderboard: https://www.kaggle.com/c/digit-recognizer/leaderboard
 * My best [submission](https://www.kaggle.com/c/digit-recognizer/leaderboard?submissionId=3335474): **96.571%** (Random Forest benchmark)
+
+## Facial Keypoints Detection
+
+- About competition: https://www.kaggle.com/c/facial-keypoints-detection
+- Data: https://www.kaggle.com/c/facial-keypoints-detection/data
+- Leaderboard: https://www.kaggle.com/c/facial-keypoints-detection/leaderboard
+- My best [submission](https://www.kaggle.com/c/facial-keypoints-detection/leaderboard?submissionId=3360336): **RMSE 4.07473** (Neural Net benchmark)

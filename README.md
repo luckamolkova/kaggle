@@ -21,4 +21,4 @@ Repo with my code written for various Kaggle competitions.
 - About competition: https://www.kaggle.com/c/facial-keypoints-detection
 - Data: https://www.kaggle.com/c/facial-keypoints-detection/data
 - Leaderboard: https://www.kaggle.com/c/facial-keypoints-detection/leaderboard
-- My best [submission](https://www.kaggle.com/c/facial-keypoints-detection/leaderboard?submissionId=3362980): **RMSE 3.96824** (Convolution Neural Network)
+- My best [submission](https://www.kaggle.com/c/facial-keypoints-detection/leaderboard?submissionId=3447273): **RMSE 2.90701** (Convolution Neural Network)
